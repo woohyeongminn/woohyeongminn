@@ -11,7 +11,7 @@
 <a href="https://www.notion.so/3c37cc51a5a64ce3b5b62deec60eed82" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 <a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 <a href="https://github.com/woohyeongminn/my-mini-project" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vlogo&logoColor=white"/></a>
-<a href="mailto:gudals.woo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Vlogo&logoColor=white"/></a>
+<a href="mailto:gudals.woo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-40AEF0?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 
 ### TOOL
 <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2c2255?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5c2d91?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/npm-cb3837?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/Apachetomcat-f8dc75?style=flat-square&logo=Vlogo&logoColor=white"/>
