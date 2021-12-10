@@ -4,11 +4,15 @@
 [![woohyeongminn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=woohyeongminn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/woohyeongminn)
 
 
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=woohyeongminn)
 
 <a href="https://www.notion.so/3c37cc51a5a64ce3b5b62deec60eed82" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="file:///C:/Users/milkn/Downloads/github.svg"/></a>
+<a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://github.com/woohyeongminn/my-mini-project" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:gudals.woo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 <!--
 **woohyeongminn/woohyeongminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
