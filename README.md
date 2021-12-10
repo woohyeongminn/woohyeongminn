@@ -7,7 +7,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=woohyeongminn)
 
 <a href="https://www.notion.so/3c37cc51a5a64ce3b5b62deec60eed82" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="file:///C:/Users/milkn/Downloads/github.svg"/></a>
 <a href="https://github.com/woohyeongminn/my-mini-project" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **woohyeongminn/woohyeongminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
