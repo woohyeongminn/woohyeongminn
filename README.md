@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohyeonminn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woohyeongminn&show_icons=true&theme=radical)
 <!--
 **woohyeongminn/woohyeongminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
