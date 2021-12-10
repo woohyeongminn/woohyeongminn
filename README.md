@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Gradle-02303a?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/EclipseIDE-2c2255?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudio-5c2d91?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/npm-cb3837?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/Apache tomcat-f8dc75?style=flat-square&logo=Vlogo&logoColor=white"/>
 
 ### front-end
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=Vlogo&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=Vlogo&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-f8dc75?style=flat-square&logo=Vlogo&logoColor=white"/>
 
 
 ### back-end
