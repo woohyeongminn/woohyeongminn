@@ -10,7 +10,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=woohyeongminn)
 
 ### 💻 RINK
-<a href="https://www.notion.so/for-developer-3c37cc51a5a64ce3b5b62deec60eed82" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Vlogo&logoColor=white"/></a>
+<a href="https://splashy-antler-942.notion.site/for-developer-3c37cc51a5a64ce3b5b62deec60eed82" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 <a href="https://github.com/woohyeongminn/today-study" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 <a href="https://github.com/woohyeongminn/my-mini-project" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Vlogo&logoColor=white"/></a>
 <a href="mailto:gudals.woo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-40AEF0?style=flat-square&logo=Vlogo&logoColor=white"/></a> 
